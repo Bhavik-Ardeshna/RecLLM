@@ -42,4 +42,3 @@ The engine will return a pandas dataframe containing the following columns:
 * `reasoning`: The reasoning behind the recommendation.
 * `similarity_score`: The similarity score between the input product and the recommended product.
 * `score`: The likelihood of purchasing the recommended product.
->>>>>>> master
