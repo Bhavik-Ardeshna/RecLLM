@@ -1,16 +1,5 @@
 
 # RecLLM
-RecLLM: Recommendation using LLM &amp; RAG
-=======
-**Agent Engine - Complementary Products Discovery Engine**
-
-**README FILE**
-
-The Agent Engine is a Python-based artificial intelligence (AI) engine designed to discover complementary products for a given product. This engine utilizes natural language processing (NLP) and machine learning (ML) techniques to generate a list of products that are likely to be purchased together.
-
-**STRUCTURE**
-
-The code is structured into multiple files, each responsible for a specific task:
 
 * `agent.py`: The main class responsible for initializing the engine and handling requests.
 * `functions/prompts.py`: Contains classes for generating prompts for the large language model (LLM).
